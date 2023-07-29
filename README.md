@@ -12,11 +12,12 @@
 
 <h2>Table of Contents</h2>
     <ol>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#how-to-use">How to Use</a></li>
-        <li><a href="#requirements">Features</a></li>
-        <li><a href="#author">Author</a></li>
+        
+<li><a href="#installation">Installation</a></li>
+<li><a href="#features">Features</a></li>
+<li><a href="#how-to-use">How to Use</a></li>
+<li><a href="#requirements">Features</a></li>
+<li><a href="#author">Author</a></li>
     </ol>
 
  <h2 id="installation">Installation</h2>
@@ -121,6 +122,6 @@
 
 
 
-<h2>Autor</h2>
+<h2 id="author">Autor</h2>
 <p>Adrian Rivas E.</p>
 
